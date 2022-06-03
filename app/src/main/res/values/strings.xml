@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fon Timer</string>
+    <string name="main_fragment_title">Fon Red Timer</string>
+    <string name="main_fragment_top_textview_title">Fon Red Timer</string>
+    <string name="main_fragment_second_textview_title">Fon Red Timer helps you to track your time</string>
+    <string name="privacy_text_view_text">Please accept our privacy policy in order to use an application</string>
+    <string name="ok_text">Ok. Start!</string>
+    <string name="later_text">No. Maybe Later</string>
+    <string name="start">Start</string>
+    <string name="resume_pause">Pause/Resume</string>
+    <string name="save">Save</string>
+    <string name="saved_tracks">Saved tracks</string>
+    <string name="clear">Clear</string>
+    <string name="back">Back To Menu</string>
+</resources>
